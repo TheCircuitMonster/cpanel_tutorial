@@ -18,7 +18,7 @@ Part Two: Modifying Website Files in Cpanel
 
   ![Image of Highlighted File](./images/HighlightedFile.png)
 
-1. Most of the icons along the top should now be clickable. Click on the "Code Editor" icon.
+1. Most of the icons along the top should now be clickable. Click on the "HTML Editor" icon.
 
   ![Image of HTML Editor](./images/HTMLEditor.png)
 

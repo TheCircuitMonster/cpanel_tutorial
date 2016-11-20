@@ -1,5 +1,7 @@
 Part One: Navigating the Cpanel Website
 
+[For Part Two click here.](./02_Modifying_Files_In_Cpanel.md)
+
 **If at any point you accidentally navigate to the wrong page, just click up in the website bar and go to the CPanel login site again. It should be something like [thenameofyourwebsite].com/cpanel**
 
 1. We will be using the tool called "Cpanel". It's just a website that allows you to edit other websites.
@@ -35,3 +37,5 @@ Part One: Navigating the Cpanel Website
 Congrats! You now know the basics of navigating the Cpanel site! We are half the way done with the tutorial! In the next section we will cover how to open a file for editing and making changes.
 - [x] Navigating Cpanel
 - [ ] Modifying Files in Cpanel
+
+[Click here to continue to Part Two: Modifying Files In Cpanel!](./02_Modifying_Files_In_Cpanel.md)
